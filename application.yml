@@ -4,6 +4,6 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://https://discovery-app-27kusmptja-oa.a.run.app/eureka/
+      defaultZone: https://discovery-app-27kusmptja-oa.a.run.app/eureka/
     instance:
       hostname: localhost
