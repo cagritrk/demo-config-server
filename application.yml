@@ -6,4 +6,4 @@ eureka:
     service-url:
       defaultZone: https://discovery-app-27kusmptja-oa.a.run.app/eureka/
     instance:
-      hostname: localhost
+      hostname: discovery-app
